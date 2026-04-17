@@ -22,5 +22,4 @@ fix typo test
 HEAD
 test merge change
 fix merge test
-bug-fix-typo
-new change
+new change for merge test
