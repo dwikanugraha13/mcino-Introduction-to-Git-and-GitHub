@@ -1,24 +1,4 @@
-commit 51f5de7ee3d8d77263e4d95599d9fe2ce2c16a98
-Merge: 2339f1e 4cc55be
-Author: dwikanugraha13 <dwikanugraha13@gmail.com>
-Date:   Fri Apr 17 19:45:29 2026 +0700
-
-    Merge branch 'bug-fix-typo'
-    fix
-
-diff --cc README.md
-index 41fb225,a21b7e6..dd4fdad
---- a/README.md
-+++ b/README.md
-@@@ -3,8 -3,10 +3,11 @@@
-  ## Simple Interest Calculator
-  
-  This is for simple fix A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
- +update typo
-  
-+ ini perubahan untuk pull request
-+ perbaikan di branch bug-fix
-+ 
-  ```
-  Input:
-     p, principal amount
+M	merge_branches.txt
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+Already up to date.
