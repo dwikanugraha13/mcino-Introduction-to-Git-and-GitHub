@@ -3,7 +3,6 @@
 ## Simple Interest Calculator
 
 This is for simple fix A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-update typo
 
 ini perubahan untuk pull request
 perbaikan di branch bug-fix
@@ -19,27 +18,6 @@ Output
 
 _© 2022 XYZ, Inc._
 fix typo test
-HEAD
-test merge change
 fix merge test
-new change for merge testnew update for PR
-new update for task 8
-test change
-force change for merge
 new change for merge test
-force change for merge
-force change
-HEAD
-HEAD
-new change for task 7 fix
-bug-fix-typo
-new change for merge test
-bug-fix-typo
-new update for task 7 final fix
-final task 7 fix update
-task 7 fresh change
-final task 7 update fix
-final task 7 update
-final fix task 7 clean
-final task 7 fix clean version
-final clean task 7
+fix task 7 update final
