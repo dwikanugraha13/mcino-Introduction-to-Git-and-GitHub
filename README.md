@@ -4,6 +4,8 @@
 
 This is for simple fix A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
+perbaikan di branch bug-fix
+
 ```
 Input:
    p, principal amount
