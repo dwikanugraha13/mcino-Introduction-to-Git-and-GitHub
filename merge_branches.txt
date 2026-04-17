@@ -1,4 +1,5 @@
-merge: bug-fix-typo - not something we can merge
-
-Did you mean this?
-	origin/bug-fix-typo
+error: Your local changes to the following files would be overwritten by merge:
+	merge_branches.txt
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 85a9363..c9add8b
