@@ -19,4 +19,7 @@ Output
 
 _© 2022 XYZ, Inc._
 fix typo test
+HEAD
 test merge change
+fix merge test
+bug-fix-typo
