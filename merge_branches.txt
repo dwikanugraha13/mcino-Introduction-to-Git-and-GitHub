@@ -1,4 +1,4 @@
 M	merge_branches.txt
-Your branch is ahead of 'origin/main' by 2 commits.
+Your branch is ahead of 'origin/main' by 3 commits.
   (use "git push" to publish your local commits)
 Already up to date.
