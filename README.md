@@ -30,6 +30,9 @@ new change for merge test
 force change for merge
 force change
 HEAD
+HEAD
 new change for task 7 fix
+bug-fix-typo
+new change for merge test
 bug-fix-typo
 new update for task 7 final fix
