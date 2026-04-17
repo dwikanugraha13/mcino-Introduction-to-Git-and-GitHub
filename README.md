@@ -29,6 +29,6 @@ force change for merge
 new change for merge test
 force change for merge
 force change
-bug-fix-typo
-force change
+HEAD
 new change for task 7 fix
+bug-fix-typo
